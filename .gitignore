@@ -1,0 +1,7 @@
+# WordPress plugin dev
+.idea/
+.vscode/
+node_modules/
+vendor/
+.DS_Store
+*.zip
